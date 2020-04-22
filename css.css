@@ -1,0 +1,16 @@
+h1 {
+    text-align: center
+}
+ul {
+    color: red;
+    font-weight: bold;
+}
+a:hover {
+    color: red;
+    background: black;
+    
+}
+a:active{
+    font-size: 150%;
+    border: 3px solid blue;
+}
